@@ -193,6 +193,7 @@ body{
     left: 0;
     z-index: 999;
     border-bottom: 2px solid brown;
+    width: 1349px;
 }
 .navbar{
     background: rgb(247, 246, 246);
