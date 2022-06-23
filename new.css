@@ -510,6 +510,7 @@ color: rgba(255, 166, 0, 0.74);
 }
 #more-details{
     max-height: 260px;
+    width: 1349px;
 }
 #more-details .details .into-details p{
 text-align: center;
