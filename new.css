@@ -464,6 +464,7 @@ color: rgba(255, 166, 0, 0.74);
 }
 #feature {
     background: rgb(245, 244, 244);
+    width: 1349px;
 }
 #feature .decor{
     margin: 15px;
