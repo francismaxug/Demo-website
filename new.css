@@ -199,7 +199,7 @@ body{
     background: rgb(247, 246, 246);
     max-width: 895px;
     margin-left: 250px;
-    box-shadow: 2px 5px 5px black;
+    box-shadow: 2px 0px 5px 5px black;
     
 }
 .navbar ul{
